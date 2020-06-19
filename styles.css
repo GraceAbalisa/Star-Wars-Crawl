@@ -1,1 +1,8 @@
-.
+body {
+    background-image: url("stars.jpg");
+    text-align: center;
+    color: white;
+}
+h2 {
+    color: rgb(71, 119, 221);
+}
