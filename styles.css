@@ -2,7 +2,10 @@ body {
     background-image: url("stars.jpg");
     text-align: center;
     color: white;
+    transform: rotateX( 70deg );
+    font-size: large;
 }
 h2 {
-    color: rgb(71, 119, 221);
+    color: rgb(74, 171, 228);
+    font-size: xx-large;
 }
