@@ -64,3 +64,28 @@ body {
     transform: rotateX(25deg) translateZ(-2500px);
   }
 }
+.logo{
+transform: scale3d(1;5);
+opacity: 59%;
+position: static
+}
+
+@keyframes logo{
+    0%{
+        width: 18em;
+        margin: (- 18em / 2) 0 0 (- 18em / 2);
+        transform: scale(2.75);
+        opacity: 1;
+    }
+    50%{
+        opacity: 1;
+        width: 18em;
+        margin: (- 18em / 2) 0 0 (- 18em / 2);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(0.1);
+        width: 18em;
+        margin: (- 18em / 2) 0 0 (- 18em / 2);
+    }
+}
